@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">P3</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">E-mail</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_admin_activity">admin_activity</string>
+    <string name="path">enter file path:</string>
+    <string name="flight_csv">load flights</string>
+    <string name="user_csv">load users</string>
+    <string name="wrong_un_pw">wrong password or username</string>
+    <string name="search_client">search/view/edit client</string>
+    <string name="search_flight">search flights</string>
+    <string name="search_itinerary_or_flight">search flights/itineraries</string>
+    <string name="search_it">search itineraries</string>
+    <string name="title_activity_client_activity">client_activity</string>
+    <string name="title_activity_searchit_ineraries_activity">searchit_ineraries_activity</string>
+    <string name="SimpleDateFormat">Date in format yyyy-MM-dd</string>
+    <string name="depart_date">Depart date:</string>
+    <string name="origin">Origin:</string>
+    <string name="destination">Destination:</string>
+    <string name="title_activity_show_itineraries_activity">show_itineraries_activity</string>
+    <string name="sort_by_time">sort by total time</string>
+    <string name="sort_by_cost">sort by total cost</string>
+    <string name="book">book itinerary</string>
+    <string name="view_book">view booked itineraries</string>
+    <string name="view_info">view/edit personal info</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_show_bookings_activity">show_bookings_activity</string>
+    <string name="title_activity_change_info_activity">change_info_activity</string>
+    <string name="change_info">change personal info</string>
+    <string name="save_change">save changes</string>
+    <string name="title_activity_show_flights_activity">show_flights_activity</string>
+    <string name="title_activity_itinerary_activity">itinerary_activity</string>
+    <string name="total_time">total time:</string>
+    <string name="total_cost">total cost:</string>
+    <string name="clean_history">clean booking history</string>
+    <string name="title_activity_flight_activity">Flight_activity</string>
+    <string name="for_details">Click for details</string>
+    <string name="title_activity_change_flight_info">ChangeFlightInfoActivity</string>
+    <string name="title_activity_search_flight_to_edit">SearchFlightToEditActivity</string>
+    <string name="search_flight_edit">search/edit flight</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="book_changed">flight has changed!</string>
+</resources>
